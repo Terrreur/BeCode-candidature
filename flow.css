@@ -1,0 +1,31 @@
+p,h1,ul,ol,li,h2
+{
+	font-family: "Times New Roman", sans-serif;
+}
+
+h1
+{
+	text-decoration: underline;
+	font-style: italic;
+ 	font-size: 44px;
+ 	color: azure;
+ 	text-align: center;
+}
+
+p,ul,ol,h2
+{
+	font-weight : bold;
+	font-size: 28px;
+	text-align: justify;
+	color: azure;
+}
+
+h2
+{
+	text-align: right;
+}
+
+body
+{
+	background-image: url("aventure.jpg");
+}
